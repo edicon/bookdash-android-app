@@ -90,6 +90,9 @@
         <meta-data
             android:name="io.fabric.ApiKey"
             android:value="b2579d751611dc3b58788bad80a51ad37e140ecb"/>
+
+        <activity android:name=".presentation.settings.SettingsActivity">
+        </activity>
     </application>
 
 </manifest>
