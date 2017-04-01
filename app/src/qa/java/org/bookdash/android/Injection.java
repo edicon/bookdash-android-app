@@ -28,7 +28,7 @@ import org.bookdash.android.data.utils.firebase.FirebaseObservableListeners;
  */
 public class Injection {
 
-    public static final String STORAGE_PREFIX = "gs://book-dash-qa.appspot.com/";
+    public static final String STORAGE_PREFIX = "gs://book-dash-4215a.appspot.com/books/";
     private static BookService bookService = null;
     private static RemoteConfigSettingsApi config;
     private static DownloadService downloadService = null;
