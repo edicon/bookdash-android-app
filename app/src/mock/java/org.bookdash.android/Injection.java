@@ -23,7 +23,7 @@ import org.bookdash.android.data.tracking.Analytics;
  */
 public class Injection {
 
-    public static final String STORAGE_PREFIX = "gs://book-dash-4215a.appspot.com/books/";
+    public static final String STORAGE_PREFIX = "gs://book-dash-4215a.appspot.com/";
 
     private static DownloadServiceImpl downloadService;
 
